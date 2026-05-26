@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "Premium subscription gives users access to advanced AI features, faster responses, and priority support."
+  },
+  {
+    "id": 2,
+    "text": "Users can purchase premium subscription from the Billing page in Account Settings."
+  },
+  {
+    "id": 3,
+    "text": "Users can reset password from Settings > Security."
+  },
+  {
+    "id": 4,
+    "text": "Users can delete account from Account Settings."
+  }
+]
